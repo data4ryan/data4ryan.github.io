@@ -4,6 +4,6 @@ title: About
 permalink: /about/
 ---
 
-### Contact me
+### Contact Ryan
 
 [ryan@ryanandpeggy.com](mailto:ryan@ryanandpeggy.com)
